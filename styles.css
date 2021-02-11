@@ -1,0 +1,102 @@
+.body{
+    height: 800px;
+    width: 1430px;
+    background-color: hsl(257, 40%, 49%);
+    position: relative;
+}
+.bg-img{
+    position: relative;
+}
+.logo
+{
+    position: absolute;
+    right: 1132px;
+    top: 50px;
+}
+.illus{
+    position: absolute;
+    right: 680px;
+    top: 150px;
+}
+.para{
+    position: absolute;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    bottom: 500px;
+    left: 800px;
+    
+    
+}
+.br{
+    position: absolute;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    bottom: 440px;
+    left: 800px; 
+}
+
+.big{
+    position: absolute;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    font-weight:200;
+    left: 800px;
+    bottom:360px ;
+    line-height: 1.5rem;
+    width: 530px;
+}
+.button{
+    background-color:#ffffff ;
+    color: hsl(257, 40%, 49%);
+    border-radius: 30px;
+    position: absolute;
+    left: 800px;
+    bottom:290px ;
+    padding: 16px 32px;
+    text-align: center;
+    width: 190px; 
+    font-size: 16px;
+    margin: 4px 2px;
+}
+.button:hover
+{
+    background-color: hsl(300, 69%, 71%);
+}
+i{
+    
+        background-color: transparent;
+        border-radius: 50%;
+        border: 2px solid white;
+        padding: 10px;
+
+      
+}
+i:hover{
+    color:hsl(300, 69%, 71%) ;
+}
+i:hover{
+    border: 2px solid hsl(300, 69%, 71%);
+
+}
+.icon{
+    position: absolute;
+    bottom: 50px;
+    left: 1215px;
+    
+}
+.fb{
+    margin-right: 10px;
+    color: white;
+}
+.tw{
+    margin-right: 10px;
+    color: white;
+}
+.ig{
+    color: white;
+}
